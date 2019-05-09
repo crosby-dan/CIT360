@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7551d96e-2c76-4738-822a-2c250cc24732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7551d96e-2c76-4738-822a-2c250cc24732" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
+            <state relative-caret-position="1003">
               <caret line="107" selection-start-line="107" selection-end-line="107" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#483#484#0" expanded="true" />
@@ -75,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5">
@@ -212,7 +203,7 @@
       <updated>1556936970416</updated>
       <workItem from="1557259298330" duration="111000" />
       <workItem from="1557259471833" duration="142000" />
-      <workItem from="1557259668771" duration="30578000" />
+      <workItem from="1557259668771" duration="30832000" />
     </task>
     <task id="LOCAL-00001" summary="changed world to 2">
       <created>1556953044603</created>
@@ -225,7 +216,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30831000" />
+    <option name="totallyTimeSpent" value="31085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,27 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fluency/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -365,6 +335,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5">
           <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
