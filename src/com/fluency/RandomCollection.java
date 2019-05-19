@@ -1,8 +1,8 @@
 package com.fluency;
 
-import java.util.ArrayList;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class RandomCollection {
 
@@ -14,13 +14,18 @@ public int getCount() {
     return this.count.get();
 }
 
+public void resetCount() {
+    //After this method runs, we will call this to reset the count.
+    this.count.set(0);
+}
+
 public void Add(int quantity) {
     //System.out.format ("Beginning list count=%d",this.count.get());
     // Loop through and add the specified number of random numbers to a collection.
     for (int i=0;i<quantity;i++) {
         //Add a new list item containing a random number
         try {
-            list.add(Math.random());
+            list.add(ThreadLocalRandom.current().nextDouble());
         }
         catch (RuntimeException e)
         {

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7551d96e-2c76-4738-822a-2c250cc24732" name="Default Changelist" comment="" />
+    <list default="true" id="7551d96e-2c76-4738-822a-2c250cc24732" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/RandomCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/RandomCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/ThreadsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/ThreadsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fluency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#505#534#1" expanded="true" />
-                <element signature="e#1691#1720#1" expanded="true" />
-                <element signature="e#3034#3063#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="916">
+              <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,13 +38,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
+        <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="969">
+              <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-677">
-              <caret column="11" selection-start-column="8" selection-end-column="11" />
+            <state relative-caret-position="-408">
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -88,6 +107,7 @@
     <findStrings>
       <find>tree</find>
       <find>Using a for loop and .add</find>
+      <find>t</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,10 +120,11 @@
         <option value="$PROJECT_DIR$/src/com/fluency/Util.java" />
         <option value="$PROJECT_DIR$/src/com/CIT360/basic/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/CreateRandomCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" />
       </list>
     </option>
   </component>
@@ -121,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +171,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -159,7 +180,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitHub/BillyBobsFarm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TeamWork/CIT360-Bryce" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -203,7 +224,10 @@
       <updated>1556936970416</updated>
       <workItem from="1557259298330" duration="111000" />
       <workItem from="1557259471833" duration="142000" />
-      <workItem from="1557259668771" duration="30832000" />
+      <workItem from="1557259668771" duration="33249000" />
+      <workItem from="1557498898090" duration="3556000" />
+      <workItem from="1557921273513" duration="2807000" />
+      <workItem from="1558241305732" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="changed world to 2">
       <created>1556953044603</created>
@@ -216,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31085000" />
+    <option name="totallyTimeSpent" value="43471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,7 +255,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,7 +265,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.4814815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.38969404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,7 +276,6 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,6 +285,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
@@ -305,13 +329,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="changed world to 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CIT360$Main.ic" NAME="Main Coverage Results" MODIFIED="1557341951278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CIT360$Main.ic" NAME="Main Coverage Results" MODIFIED="1557500727290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/fluency/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-677">
-          <caret column="11" selection-start-column="8" selection-end-column="11" />
+        <state relative-caret-position="-408">
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -320,41 +371,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fluency/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        <state relative-caret-position="916">
+          <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#505#534#1" expanded="true" />
-            <element signature="e#1691#1720#1" expanded="true" />
-            <element signature="e#3034#3063#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        <state relative-caret-position="969">
+          <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fluency/RandomCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
           </folding>
         </state>
       </provider>

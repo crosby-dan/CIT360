@@ -51,7 +51,7 @@ public class Main {
                 case 1: c.DemoList(); break;
                 case 2: c.DemoHashSet(); break;
                 case 3: c.DemoTreeSet(); break;
-                case 4: c.DemoMap(); break;
+                case 4: c.DemoMapGrades(); break;
                 case 5: c.DemoQueueFIFO(); break;
                 case 6: c.DemoQueueLIFO(); break;
                 case 7: System.out.println ("Program terminated."); return;
@@ -62,6 +62,7 @@ public class Main {
 
     public static void RunThreadsDemo() {
         com.fluency.ThreadsDemo t = new com.fluency.ThreadsDemo();
+        com.fluency.AtomicityDemo t2 = new com.fluency.AtomicityDemo();
 
         //This block of code will capture the number of the collection test to run.
         Pattern pattern = Pattern.compile("([1-4])");
@@ -80,7 +81,7 @@ public class Main {
                 switch (Integer.parseInt(matcher.group(1))) {
                     case 1: t.startThreads(); break;
                     case 2: t.startThreadsES(); break;
-                    case 3: t.startThreadsRandom(); break;
+                    case 3: t2.startThreadsRandom(); break;
                     case 4: System.out.println ("Program terminated."); return;
                 }
         }

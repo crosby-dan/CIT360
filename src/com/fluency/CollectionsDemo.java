@@ -175,4 +175,45 @@ public class CollectionsDemo {
         System.out.format("\tExample 3c:  setDemo.contains('X')=%s\n", setDemo.contains("X".charAt(0)));
         Util.promptEnterKey();
     }
+
+    public void DemoMapGrades() {
+        System.out.println("\n\n\n\n\n\n******************************************************************************");
+        System.out.println("**\tA TreeMap organizes elements by the key in a value pair.");
+        System.out.println("**\tIn this example we will grade a mini grading application where a \nstudent must obtain a minimum score in order to get a specified grade.");
+        System.out.println("**\tPopulating a TreeMap of minimum scores and resulting grades.");
+        System.out.println("******************************************************************************");
+        //Note that we are defining this treemap in reverseOrder so that the highest scores come first.   This will make the application faster if a majority of students have better grades.
+        TreeMap<Integer, String> mapDemo = new TreeMap<>(Collections.reverseOrder());
+
+        mapDemo.put(92, "A");
+        mapDemo.put(89, "A-");
+        mapDemo.put(86, "B+");
+        mapDemo.put(82, "B");
+        mapDemo.put(79, "B-");
+        mapDemo.put(76, "C+");
+        mapDemo.put(72, "C");
+        mapDemo.put(69, "C-");
+        mapDemo.put(66, "D+");
+        mapDemo.put(62, "D");
+        mapDemo.put(59, "D-");
+        mapDemo.put(0, "F");
+
+        System.out.format("Here is the resulting treeMap of minimum scores and resulting grades: %s\n", mapDemo.toString());
+        System.out.format("\tExample 1a:  Now searching for the appropriate grade for random scores.\n");
+        for (int i=0;i<10;i++) {
+            int grade = 50 + (int)(Math.random()*50);  //This will give us a random grade between 50 and 100.
+            for (Map.Entry<Integer, String> entry : mapDemo.entrySet()) {
+                //System.out.format ("comparing grade %d to key %d\n",grade,entry.getKey());
+                if (entry.getKey() < grade) {
+                    // return first value with a key greater than the inputted value
+                    System.out.format("\tFor a scored percentage of %d, your grade is %s\n", grade, entry.getValue());
+                    break;
+                }
+
+            }
+        }
+        Util.promptEnterKey();
+
+    }
+
 }
