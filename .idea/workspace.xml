@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7551d96e-2c76-4738-822a-2c250cc24732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/CollectionsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/RandomCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/RandomCollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CIT360/com/fluency/ThreadsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CIT360/com/fluency/ThreadsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="969">
@@ -85,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
+            <state relative-caret-position="53">
+              <caret line="208" column="34" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -108,9 +100,15 @@
       <find>tree</find>
       <find>Using a for loop and .add</find>
       <find>t</find>
+      <find>student must</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dan Crosby &lt;cro18023@byui.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -120,11 +118,11 @@
         <option value="$PROJECT_DIR$/src/com/fluency/Util.java" />
         <option value="$PROJECT_DIR$/src/com/CIT360/basic/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/CreateRandomCollection.java" />
-        <option value="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/RandomCollection.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/AtomicityDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/ThreadsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/fluency/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java" />
       </list>
     </option>
   </component>
@@ -227,7 +225,7 @@
       <workItem from="1557259668771" duration="33249000" />
       <workItem from="1557498898090" duration="3556000" />
       <workItem from="1557921273513" duration="2807000" />
-      <workItem from="1558241305732" duration="3606000" />
+      <workItem from="1558241305732" duration="4805000" />
     </task>
     <task id="LOCAL-00001" summary="changed world to 2">
       <created>1556953044603</created>
@@ -236,11 +234,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556953044603</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moved atomic thread demo to a separate class for easier code readability.">
+      <created>1558245064922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558245064922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Improved text display on menu 1-4.">
+      <created>1558245414813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558245414813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43471000" />
+    <option name="totallyTimeSpent" value="44670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,9 +265,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -265,7 +276,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.38969404" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.66505635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,8 +336,11 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="changed world to 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed world to 2" />
+    <MESSAGE value="Moved atomic thread demo to a separate class for easier code readability." />
+    <MESSAGE value="Improved text display on menu 1-4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved text display on menu 1-4." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CIT360$Main.ic" NAME="Main Coverage Results" MODIFIED="1557500727290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -339,13 +353,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -386,6 +393,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fluency/CollectionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="208" column="34" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
         </state>
       </provider>
     </entry>
