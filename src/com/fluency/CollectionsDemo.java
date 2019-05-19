@@ -179,8 +179,8 @@ public class CollectionsDemo {
     public void DemoMapGrades() {
         System.out.println("\n\n\n\n\n\n******************************************************************************");
         System.out.println("**\tA TreeMap organizes elements by the key in a value pair.");
-        System.out.println("**\tIn this example we will grade a mini grading application where a \nstudent must obtain a minimum score in order to get a specified grade.");
-        System.out.println("**\tPopulating a TreeMap of minimum scores and resulting grades.");
+        System.out.println("**\tIn this example we will grade a map of minimal acceptable scores to get a grade.  ");
+        System.out.println("**\tA random number generator then runs, and the map is used to locate the best score.");
         System.out.println("******************************************************************************");
         //Note that we are defining this treemap in reverseOrder so that the highest scores come first.   This will make the application faster if a majority of students have better grades.
         TreeMap<Integer, String> mapDemo = new TreeMap<>(Collections.reverseOrder());
@@ -200,7 +200,7 @@ public class CollectionsDemo {
 
         System.out.format("Here is the resulting treeMap of minimum scores and resulting grades: %s\n", mapDemo.toString());
         System.out.format("\tExample 1a:  Now searching for the appropriate grade for random scores.\n");
-        for (int i=0;i<10;i++) {
+        for (int i=0;i<5;i++) {
             int grade = 50 + (int)(Math.random()*50);  //This will give us a random grade between 50 and 100.
             for (Map.Entry<Integer, String> entry : mapDemo.entrySet()) {
                 //System.out.format ("comparing grade %d to key %d\n",grade,entry.getKey());
